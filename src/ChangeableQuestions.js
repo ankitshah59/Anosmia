@@ -1,15 +1,15 @@
+//This section contains the editable questionnaires, which is planned to do each month.
 const ChangeQuestions = [
     {
-        questionText: 'Do you have new loss of taste or smell?',
+        questionText: 'Do you have new loss of taste or smell?', //Please Do not Edit this Section
         answerOptions: [
-            { answerText: 'Yes', isCorrect: true },
-            { answerText: 'No', isCorrect: false },
-            // { answerText: 'Cinnamom', isCorrect: true },
-            // { answerText: 'Coffee', isCorrect: false },
+            { answerText: 'Yes', isCorrect: true },             //Please Do not Edit this Section
+            { answerText: 'No', isCorrect: false },             //Please Do not Edit this Section
         ],
     },
+    //You can start editing questions/answers/options from here below
     {
-        questionText: 'Please Smell Sample 1:',
+        questionText: 'Please Smell Sample 1:',  //While changing please dont forget the quotation marks enclosures
         answerOptions: [
             { answerText: 'Coffee', isCorrect: false },
             { answerText: 'PepperMint', isCorrect: false },

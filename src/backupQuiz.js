@@ -1,3 +1,5 @@
+//Discard this code, this is just a test code before I built the website.
+
 import React, { useState } from 'react';
 import "./quiz.css";
 import { db } from "./firebase";

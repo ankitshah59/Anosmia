@@ -9,17 +9,7 @@ import ReactRoundedImage from "react-rounded-image";
 import logo from './covid-19.png';
 import Moment from 'react-moment';
 
-
-
-{/* <div>
-<div className="app1">
-     <Quiz/>
- 
- </div>
- <div className ="app">
-       <Contact />
- </div>
-</div> */}
+// This section contains the google firebase authentication as well as the firebase initialization codes
 
 class App extends Component {
   

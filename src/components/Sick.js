@@ -5,9 +5,8 @@ import "../quiz.css";
 //import "../app.css";
 import { db } from "../firebase";
 import firebase from "firebase";
-//import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
-//import { Radio } from "react-radio-group";
 
+//This page analyzes if the person is in contact with any person who is in contact with sick person
 
 const Sick = () => {
 

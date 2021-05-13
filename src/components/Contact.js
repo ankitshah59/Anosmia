@@ -9,6 +9,7 @@ import firebase from "firebase";
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 import { Radio } from "react-radio-group";
 
+//This page allows user input into the website and stores the user data into the firebase database
 
 const Contact = () => {
 

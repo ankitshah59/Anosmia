@@ -9,6 +9,7 @@ import firebase from "firebase";
 //import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 //import { Radio } from "react-radio-group";
 
+//This page analyzes if the person has any health symptoms
 
 const HealthCheck = () => {
 
