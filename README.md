@@ -2,6 +2,8 @@
 
 The Documentation of the website is included in the ** Anosmia Documentation.pdf**
 
+[Link to Google](https://www.google.com)
+
 **#The website for the Anosmia Testis here :** https://testanosmia.web.app/
 
 **#The Website for Admin based database login:** https://console.firebase.google.com/
