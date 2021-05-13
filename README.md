@@ -1,6 +1,6 @@
 # Getting Started with Ansomia Website
 
-The Documentation of the website is included in the[**Anosmia Documentation.pdf**](https://drive.google.com/file/d/1yE9RNaukh24JqSGhmd6vITRasgBxD1Sl/view?usp=sharing)
+The Documentation of the website is included in the [**Anosmia Documentation.pdf**](https://drive.google.com/file/d/1yE9RNaukh24JqSGhmd6vITRasgBxD1Sl/view?usp=sharing)
 
 **#The website for the Anosmia Testis here :** https://testanosmia.web.app/
 
